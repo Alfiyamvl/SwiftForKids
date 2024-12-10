@@ -1,0 +1,3 @@
+[submodule "AreaOfCircle"]
+    path = AreaOfCircle
+    url = https://github.com/alfiyamvl/SwiftForKids/AreaOfCircle.git
