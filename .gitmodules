@@ -1,3 +1,40 @@
 [submodule "AreaOfCircle"]
     path = AreaOfCircle
-    url = https://github.com/alfiyamvl/SwiftForKids/AreaOfCircle.git
+    url = https://github.com/alfiyamvl/blob/main/SwiftForKids/AreaOfCircle.git
+
+[submodule "CalculatorLight"]
+    path = CalculatorLight
+    url = https://github.com/alfiyamvl/blob/main/SwiftForKids/CalculatorLight.git
+
+
+
+    [submodule "EvenOrOddNumber"]
+    path = EvenOrOddNumber
+    url = https://github.com/alfiyamvl/blob/main/SwiftForKids/EvenOrOddNumber.git
+
+
+
+    [submodule "RectangleAreaCalculator"]
+    path = RectangleAreaCalculator
+    url = https://github.com/alfiyamvl/blob/main/SwiftForKids/RectangleAreaCalculator.git
+
+
+
+    [submodule "TaskWithBool"]
+    path = TaskWithBool
+    url = https://github.com/alfiyamvl/blob/main/SwiftForKids/TaskWithBool.git
+
+
+    [submodule "TemperatureConverter"]
+    path = TemperatureConverter
+    url = https://github.com/alfiyamvl/blob/main/SwiftForKids/TemperatureConverter.git
+
+
+    [submodule "TypeConversion"]
+    path = TypeConversion
+    url = https://github.com/alfiyamvl/blob/main/SwiftForKids/TypeConversion.git
+
+
+    [submodule "WorkWithStrings"]
+    path = WorkWithStrings
+    url = https://github.com/alfiyamvl/blob/main/SwiftForKids/WorkWithStrings.git
