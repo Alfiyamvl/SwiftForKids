@@ -5,15 +5,18 @@
  3. Выведите результат в формате: «Максимальное значение: 42»
  */
 
-import Foundation
-var masssive : [Int] = [12, 334, 2, 64, 3, 7, 35, 9]
-//var possible : [Int] = []
+let masssive : [Int] = [12, 334, 2, 64, 3, 7, 35, 9]
 
-//var masssiveMax : Int = 0
-
-if let masssiveMax = masssive.max() {
-    print("Максимальное значение: \(masssiveMax)")
-}
-else {
+if masssive.isEmpty {
     print("Массив пустой")
 }
+else {
+    var maxValue = masssive[0]
+    for element in masssive {
+        if element > maxValue {
+            maxValue = element
+        }
+    }
+    print("Максимальное значение: \(maxValue)")
+}
+
